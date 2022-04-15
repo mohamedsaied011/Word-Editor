@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Editor", "WindowsFormsApplication1\Word Editor.csproj", "{891B47AB-1B75-46E2-A072-8A11AD05CD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891B47AB-1B75-46E2-A072-8A11AD05CD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891B47AB-1B75-46E2-A072-8A11AD05CD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891B47AB-1B75-46E2-A072-8A11AD05CD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891B47AB-1B75-46E2-A072-8A11AD05CD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9992EF36-A72A-40F0-8013-A824F399123E}
+	EndGlobalSection
+EndGlobal
