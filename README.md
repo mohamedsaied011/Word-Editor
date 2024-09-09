@@ -1,1 +1,1 @@
-Hello Welcome to my Program for notes ind Editor Words
+Hello Welcome to my Program for notes and Editor Words
